@@ -14,6 +14,7 @@ function johnLennonFacts(facts){
   for(var i = 0; i < facts.length; i++){
     emptyArr.push(`${facts[i]}!!!`)
   }
+  return emptyArr
 }
 
 function iLoveTheBeatles(number){
